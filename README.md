@@ -1,9 +1,9 @@
 ## Sumário
-- [1. Tabela com as informações dos artigos](#1. Tabela com as informações dos artigos)
-- [2. Tabela de jogos para o ensino de Engenharia de Softwar](#2. Tabela de jogos para o ensino de Engenharia de Software)
+- [Tabela com as informações dos artigos](#tabela-com-as-informações-dos-artigos)
+- [Tabela de jogos para o ensino de Engenharia de Softwar](#tabela-de-jogos-para-o-ensino-de-engenharia-de-software)
 
   
-## 1. Tabela com as informações dos artigos
+## Tabela com as informações dos artigos
 
   <table>
     <tr>
@@ -228,7 +228,7 @@
 
 
 
-   ## 2. Tabela de jogos para o ensino de Engenharia de Software
+   ## Tabela de jogos para o ensino de Engenharia de Software
 
   <table>
     <tr>
