@@ -1,6 +1,6 @@
 ## Sumário
 - [Tabela com as informações dos artigos](#tabela-com-as-informações-dos-artigos)
-- [Tabela de jogos para o ensino de Engenharia de Softwar](#tabela-de-jogos-para-o-ensino-de-engenharia-de-software)
+- [Tabela de jogos para o ensino de Engenharia de Software](#tabela-de-jogos-para-o-ensino-de-engenharia-de-software)
 
   
 ## Tabela com as informações dos artigos
