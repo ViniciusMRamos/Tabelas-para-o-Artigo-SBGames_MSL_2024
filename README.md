@@ -217,5 +217,236 @@
       <td>Wiley</td>
     </tr>
   </table>
-			
-			
+
+   ## Tabela de jogos para o ensino de Engenharia de Software
+
+  <table>
+    <tr>
+      <td>Nome</td>
+      <td>Tipo</td>
+      <td>Área</td>
+    </tr>
+    <tr>
+      <td>AgentWeb</td>
+      <td>Plataforma de Desenvolvimento de Jogos</td>
+      <td>Pensamento Computacional</td>
+    </tr>
+    <tr>
+      <td>ATAM-RPG</td>
+      <td>RPG</td>
+      <td>Arquitetura de Software</td>
+    </tr>
+    <tr>
+      <td>SimSE</td>
+      <td>Jogo computacional (Simulador)</td>
+      <td>Não especifica</td>
+    </tr>
+    <tr>
+      <td>Kammy Game, Rolly Polly, Análise Mágica</td>
+      <td>Simulador</td>
+      <td>Engenharia de Software</td>
+    </tr>
+    <tr>
+      <td>TestEG</td>
+      <td>Simulador RPG</td>
+      <td>Testes de Software</td>
+    </tr>
+    <tr>
+      <td>Gidget</td>
+      <td>Simulador de programação</td>
+      <td>Engenharia de Software</td>
+    </tr>
+    <tr>
+      <td>CodeCombat</td>
+      <td>Digital</td>
+      <td>Programação OO</td>
+    </tr>
+    <tr>
+      <td>"Code Review Serious Game"</td>
+      <td>Digital</td>
+      <td>Testes de software</td>
+    </tr>
+    <tr>
+      <td>FASENG (Framework for Software Engineering Simulation Games)</td>
+      <td>Jogos de Simulação</td>
+      <td>Abrangente</td>
+    </tr>
+    <tr>
+      <td>Process Improvement Game</td>
+      <td>Digital (cartas 2D)</td>
+      <td>Gerenciamento de projeto ágil</td>
+    </tr>
+    <tr>
+      <td>SDM (Software Development Manager)</td>
+      <td>Digital</td>
+      <td>Gestão de Pessoas, atribuição de tarefas (Projeto de Software)</td>
+    </tr>
+    <tr>
+      <td>OOAD Game</td>
+      <td>Digital</td>
+      <td>Análise orientada a objetos</td>
+    </tr>
+    <tr>
+      <td>SOFTTY</td>
+      <td>Jogo de cartas</td>
+      <td>Testes de software</td>
+    </tr>
+    <tr>
+      <td>DevRPG</td>
+      <td>RPG</td>
+      <td>Gerenciamento de tarefas</td>
+    </tr>
+    <tr>
+      <td>Softbook</td>
+      <td>Livro</td>
+      <td>Engenharia de Software</td>
+    </tr>
+    <tr>
+      <td>Pex4Fun</td>
+      <td>Digital</td>
+      <td>Programação</td>
+    </tr>
+    <tr>
+      <td>GetKanban v4.0</td>
+      <td>Jogo de tabuleiro</td>
+      <td>Gerenciamento de projeto de software</td>
+    </tr>
+    <tr>
+      <td>GSD Sim</td>
+      <td>Digital (simulador)</td>
+      <td>Gerenciamento de projeto de desenvolvimento global de software</td>
+    </tr>
+    <tr>
+      <td>PlayScrum</td>
+      <td>Jogo de cartas</td>
+      <td>Métodos ágeis (SCRUM)</td>
+    </tr>
+    <tr>
+      <td>Wanda</td>
+      <td>Jogos digitais (baseado em cartas)</td>
+      <td>Programação</td>
+    </tr>
+    <tr>
+      <td>caso Coffee Dispenser</td>
+      <td>RPG</td>
+      <td>Máquina de estado finito</td>
+    </tr>
+    <tr>
+      <td>GreaTest Card Game</td>
+      <td>Jogo de cartas multiplayer analógico</td>
+      <td>Testes de software</td>
+    </tr>
+    <tr>
+      <td>GAMUT</td>
+      <td>Digital</td>
+      <td>Testes de software</td>
+    </tr>
+    <tr>
+      <td>Scrum Card Game</td>
+      <td>Jogo de cartas</td>
+      <td>Gerenciamento de projeto de software</td>
+    </tr>
+    <tr>
+      <td>EEEE—Expert and Efficient Estimators Enterprise (E4)</td>
+      <td>Digital</td>
+      <td>Estimativa de software</td>
+    </tr>
+    <tr>
+      <td>Back to Penelope</td>
+      <td>vídeogame desktop (digital)</td>
+      <td>Estimativa de software (esforço)</td>
+    </tr>
+    <tr>
+      <td>SimSE (para validar)</td>
+      <td>Digital</td>
+      <td>Gerenciamento de Projeto de Software</td>
+    </tr>
+    <tr>
+      <td>EduRPG e Comerciante história</td>
+      <td>RPG</td>
+      <td>Inglês e Empreendorismo</td>
+    </tr>
+    <tr>
+      <td>X-Med</td>
+      <td>Não é relatado</td>
+      <td>Engenharia de Software</td>
+    </tr>
+    <tr>
+      <td>SQL Injection com ML e Firewall com ML</td>
+      <td>Digital</td>
+      <td>Cibersegurança</td>
+    </tr>
+    <tr>
+      <td>Newton Variables e Newton Loop</td>
+      <td>Digital</td>
+      <td>Programação</td>
+    </tr>
+    <tr>
+      <td>ScrumGame</td>
+      <td>Digital</td>
+      <td>Engenharia de Software</td>
+    </tr>
+    <tr>
+      <td>ScrumGame</td>
+      <td>Digital</td>
+      <td>Engenharia de Software</td>
+    </tr>
+    <tr>
+      <td>GREaTest Card Game </td>
+      <td>Cartas analógico</td>
+      <td>Teste de software</td>
+    </tr>
+    <tr>
+      <td>Scrum XPerience</td>
+      <td>Simulador</td>
+      <td>Metodologias ágeis</td>
+    </tr>
+    <tr>
+      <td>Qualify</td>
+      <td>Digital (multijogos)</td>
+      <td>Qualidade de software</td>
+    </tr>
+    <tr>
+      <td>Arriscando</td>
+      <td>Cartas analógico</td>
+      <td>Gerenciamento de riscos</td>
+    </tr>
+    <tr>
+      <td>Translation Loss</td>
+      <td>Jogo analógico com figuras, papel e caneta</td>
+      <td>Levantamento de Requisitos</td>
+    </tr>
+    <tr>
+      <td>LEARN</td>
+      <td>Tabuleiro</td>
+      <td>Arquitetura de Software</td>
+    </tr>
+    <tr>
+      <td>Object Oriented serious game (OOsg)</td>
+      <td>Digital</td>
+      <td>Programação Orientada a Objetos</td>
+    </tr>
+    <tr>
+      <td>Minitest</td>
+      <td>Simulador</td>
+      <td>Scrum</td>
+    </tr>
+    <tr>
+      <td>BlockList</td>
+      <td>Arrasta e solta digital</td>
+      <td>Programação (Lista Encadeada)</td>
+    </tr>
+    <tr>
+      <td>Arriscando</td>
+      <td>Cartas analógico</td>
+      <td>Gerenciamento de Risco</td>
+    </tr>
+    <tr>
+      <td>Gaming With OOP Learn</td>
+      <td>Digital</td>
+      <td>Programação Orientada a Objetos</td>
+    </tr>
+  </table>
+		
+		
+		
