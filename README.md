@@ -228,6 +228,24 @@
       <td>ACM</td>
     </tr>
     <tr>
+      <td>2020</td>
+      <td>Teaching Software Engineering Topics Through Pedagogical Game Design Patterns: An Empirical Study</td>
+      <td>Portugal</td>
+      <td>ACM</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>GidgetML: An Adaptive Serious Game for Enhancing First Year Programming Labs</td>
+      <td>Canadá</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>Creation of a Serious Game For Teaching Code Review: An Experience Report</td>
+      <td>Turquia</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
       <td>2021</td>
       <td>Gamifying Users’ Learning Experience of Scrum</td>
       <td>Argentina</td>
@@ -244,6 +262,24 @@
       <td>Gauge Object Oriented Programming in Student’s Learning Performance, Normalized Learning Gains and Perceived Motivation with Serious Games</td>
       <td>Paquistão</td>
       <td>MDPI</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>Gamification of an Educational Environment in Software Engineering: Case Study for Digital</td>
+      <td>Chile/Colômbia</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>GAMUT: GAMe-based learning approach for teaching Unit Testing</td>
+      <td>CE-Brasil</td>
+      <td>ACM</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>Designing an extended smart classroom: An approach to game‐based learning for IoT</td>
+      <td>Sérvia</td>
+      <td>Wiley</td>
     </tr>
     <tr>
       <td>2022</td>
@@ -287,42 +323,6 @@
       <td>África</td>
       <td>GSchoolar</td>
     </tr> 
-    <tr>
-      <td>2020</td>
-      <td>Teaching Software Engineering Topics Through Pedagogical Game Design Patterns: An Empirical Study</td>
-      <td>Portugal</td>
-      <td>ACM</td>
-    </tr>
-    <tr>
-      <td>2020</td>
-      <td>GidgetML: An Adaptive Serious Game for Enhancing First Year Programming Labs</td>
-      <td>Canadá</td>
-      <td>IEEE</td>
-    </tr>
-    <tr>
-      <td>2020</td>
-      <td>Creation of a Serious Game For Teaching Code Review: An Experience Report</td>
-      <td>Turquia</td>
-      <td>IEEE</td>
-    </tr>
-    <tr>
-      <td>2021</td>
-      <td>Gamification of an Educational Environment in Software Engineering: Case Study for Digital</td>
-      <td>Chile/Colômbia</td>
-      <td>IEEE</td>
-    </tr>
-    <tr>
-      <td>2021</td>
-      <td>GAMUT: GAMe-based learning approach for teaching Unit Testing</td>
-      <td>CE-Brasil</td>
-      <td>ACM</td>
-    </tr>
-    <tr>
-      <td>2021</td>
-      <td>Designing an extended smart classroom: An approach to game‐based learning for IoT</td>
-      <td>Sérvia</td>
-      <td>Wiley</td>
-    </tr>
   </table>
 
 
