@@ -186,6 +186,108 @@
       <td>Scopus</td>
     </tr>
     <tr>
+      <td>2019</td>
+      <td>Immersive Activities in Educational Role-Playing Game Based on Appreciative Learning and Artificial Intelligence</td>
+      <td>Indonésia</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>Risking: A Game for Teaching Risk Management in Software Projects</td>
+      <td>MA-Brasil</td>
+      <td>ACM</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>A teaching proposal for the software measurement process using gamification: an experimental study</td>
+      <td>PA-Brasil</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>O Qualif e os jogos digitais que apoiam o ensino-aprendizagem sobre qualidade de software</td>
+      <td>RJ-Brasil</td>
+      <td>Essentia Editora</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>Adaptando o Design Thinking para a Definição e Desenvolvimento de um Jogo Educacional Não Digital no Ensino de Gerenciamento de Riscos</td>
+      <td>MA-Brasil</td>
+      <td>SBCOPENLIB</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>Evaluating the Students' Experience with a requirements elicitation and communication game.</td>
+      <td>PE-Brasil</td>
+      <td>Research Gate</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>LEARN Board Game: A game for teaching Software Architecture created through Design Science Research</td>
+      <td>CE-Brasil</td>
+      <td>ACM</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>Gamifying Users’ Learning Experience of Scrum</td>
+      <td>Argentina</td>
+      <td>Springer Link</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>D-CreEA: DSML for Creating Educational Analog Card Games</td>
+      <td>CE-Brasil</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>Gauge Object Oriented Programming in Student’s Learning Performance, Normalized Learning Gains and Perceived Motivation with Serious Games</td>
+      <td>Paquistão</td>
+      <td>MDPI</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Empirical Study of Adaptive Serious Games in Enhancing Learning Outcome</td>
+      <td>Índia</td>
+      <td>International Journal of Serious Games</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Game-Based Learning: Enhancing Student Experience, Knowledge Gain, and Usability in Higher Education Programming Courses</td>
+      <td>Irlanda</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Evaluating students' perception of Scrum through a learning game</td>
+      <td>Argentina</td>
+      <td>Wiley</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Scrum XPerience: A New Approach for Agile Teaching</td>
+      <td>SP-Brasil</td>
+      <td>ACM</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>One block on top of the other: using minetest to teach Scrum</td>
+      <td>Suécia</td>
+      <td>IEEE</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>BlockList: A Game to Teach Basic Linked Lists Operations To Novice Programmers</td>
+      <td>Índia</td>
+      <td>ACM</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Gaming With OOP Learn: A Mobile Serious Game to Learn Object-Oriented Programming</td>
+      <td>África</td>
+      <td>GSchoolar</td>
+    </tr> 
+    <tr>
       <td>2020</td>
       <td>Teaching Software Engineering Topics Through Pedagogical Game Design Patterns: An Empirical Study</td>
       <td>Portugal</td>
@@ -222,9 +324,6 @@
       <td>Wiley</td>
     </tr>
   </table>
-
-
-
 
 
 
@@ -457,6 +556,5 @@
       <td>Programação Orientada a Objetos</td>
     </tr>
   </table>
-		
 		
 		
